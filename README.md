@@ -4,10 +4,10 @@ Arduino Library for mathematical climatic simulation of natural daylight, temper
 
 Given target coordinates, specified date ranges, and minimum/maximum values for temperature and humidity at target's annual extremes, generate time_t values for sunrise and sunset, and floating point numbers for temperature, dew point, and relative humidity. Requires [Dusk2Dawn library by DM Kishi](https://github.com/dmkishi/Dusk2Dawn); an adapted C++ port of the [NOAA Solar Calculator](https://www.esrl.noaa.gov/gmd/grad/solcalc/).
 
-## Licensing
+## Licensing Disclaimer
 Raw climatic data used in this project, as well as original Solar Calculator software provided by NOAA ESRL Global Monitoring Division, Boulder, Colorado, USA (http://esrl.noaa.gov/gmd/) 
 
-All included libraries and dependencies are the property of their respective authors.
+All dependencies referenced in this repository are the properties of their respective authors, and are exempt from the the terms of this project's governing intellectual property license (the terms of which can be found in the "LICENSE" file located under the master branch of this repository) unless otherwise stated in the terms of the respective licenses and copyright statutes governing the use and distribution of said dependencies.
 
 ## Installation
 ### From the ZIP file
