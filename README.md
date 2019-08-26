@@ -10,6 +10,12 @@ Raw climatic data used in this project, as well as original Solar Calculator sof
 All dependencies referenced in this repository are the properties of their respective authors, and are exempt from the the terms of this project's governing intellectual property license (the terms of which can be found in the "LICENSE" file located under the master branch of this repository) unless otherwise stated in the terms of the respective licenses and copyright statutes governing the use and distribution of said dependencies.
 
 ## Installation
+
+### From the Library Manager
+1.  Launch the Arduino IDE and navigate to Sketch → Include Library → Manage Libraries.
+2.  In the library manager, scroll to Norman or enter the name into the search field.
+3.  Click on the library, then click on the Install button.
+
 ### From the ZIP file
 1. Download the [ZIP file](https://github.com/934Virginia/Norman/archive/master.zip).
 2. Launch the Arduino IDE and navigate to *Sketch → Include Library → Add .ZIP Library...*. From the prompt, select the ZIP just downloaded.
